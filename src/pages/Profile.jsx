@@ -1,10 +1,10 @@
 import Layout from '../layouts/Layout';
 
-// home page component
-export default function Home() {
+// user profile page component
+export default function Profile() {
   return (
     <Layout>
-      <h1>Home</h1>
+      <h1>Profile</h1>
       {/* Write your code here */}
     </Layout>
   );

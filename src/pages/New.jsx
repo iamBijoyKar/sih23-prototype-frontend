@@ -1,10 +1,10 @@
 import Layout from '../layouts/Layout';
 
-// home page component
-export default function Home() {
+// add new page component
+export default function New() {
   return (
     <Layout>
-      <h1>Home</h1>
+      <h1>New</h1>
       {/* Write your code here */}
     </Layout>
   );

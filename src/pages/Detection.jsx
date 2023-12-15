@@ -1,10 +1,10 @@
 import Layout from '../layouts/Layout';
 
-// home page component
-export default function Home() {
+// detection page component
+export default function Detection() {
   return (
     <Layout>
-      <h1>Home</h1>
+      <h1>Detection</h1>
       {/* Write your code here */}
     </Layout>
   );
